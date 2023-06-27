@@ -1,0 +1,21 @@
+$primary: maroon;
+$btn-padding-x: 3rem;
+$btn-font-size: 12px;
+
+
+h1, h2{
+    font-family: "Concert One", cursive;
+    letter-spacing: 2px;
+}
+
+p {
+  font-family: "Roboto", sans-serif;
+  font-size: 12px;
+}
+
+input {
+  border: none;
+  padding: 10px;
+}
+
+@import "../node_modules/bootstrap/scss/bootstrap";
